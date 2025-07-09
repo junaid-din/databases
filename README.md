@@ -11,6 +11,9 @@ Tasks completed:
 * Created database tables and populated them with sample data.
 * Developed SQL queries to answer key business questions:
 
-<div style="text-align: center;">
-  <img src="images/Bookshelfia_Database_ERD.jpeg" style="display: inline-block; width: 350px; margin-right: 10px;">
-</div>
+![ERD](images/Bookshelfia_Database_ERD.jpeg)
+
+
+
+
+
