@@ -12,5 +12,5 @@ Tasks completed:
 * Developed SQL queries to answer key business questions:
 
 <div style="text-align: center;">
-  <img src="images/Bookshelfia_Database_ERD.jpeg" style="display: inline-block; width: 350px; margin-right: 10px;">
+  <img src="images/Bookshelfia_Database_ERD.jpg" style="display: inline-block; width: 350px; margin-right: 10px;">
 </div>
