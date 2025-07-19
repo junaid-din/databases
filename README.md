@@ -15,7 +15,10 @@ Tasks completed:
 
 ![ERD](images/Bookshelfia_Database_ERD.jpeg)
 
+### 📄 License
 
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
 
 
 
